@@ -1,0 +1,44 @@
+/* FOR ENTIRE SITE */
+/* FOR ENTIRE SITE */
+
+body {
+    margin: 0;
+    background-color: burlywood;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* CONTAINER */
+/* CONTAINER */
+
+#container {
+    width: 600px;
+    margin: auto;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#boxone {
+    position: relative;
+    background-color: white;
+    border-radius: 30px;
+    height: 600px;
+    width: 600px;
+}
